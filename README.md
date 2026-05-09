@@ -18,5 +18,5 @@ A Retrieval-Augmented Generation (RAG) pipeline to query PDF documents using nat
 ## Setup
 1. Clone the repo
 2. Install dependencies: `pip install -r requirements.txt`
-3. Create a `.env` file with your Groq API key:
+3. Create a `.env` file with your Groq API key
 4. Run: `streamlit run app.py`
